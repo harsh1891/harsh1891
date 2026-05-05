@@ -1,16 +1,25 @@
-# 👋 Hi, I’m @harsh1891  
+# 👋 Hi, I’m HARSH
 
 🎯 Passionate about solving problems through Data Structures & Algorithms and building impactful projects.  
 💻 Exploring the world of Web Development, Competitive Programming, and Data Analytics.  
 🤝 Open to collaborating on open-source projects, internships, and learning opportunities.  
 📈 Goal-oriented with a vision to grow in software development and data-driven fields.  
 
+🛠 Currently working on:
+Exploring AI agents and learning how to make LLMs and GPTs more useful (and less unpredictable 🤖).
+
+👥 Looking to collaborate on:
+AI projects, deep learning, and anything that pushes the boundaries of what's possible with tech.
+
+🤝 Looking for help with:
+Understanding LLMs better and figuring out how to improve my AI workflows.
+
 📫 You can reach me on LinkedIn:  
 https://www.linkedin.com/in/harsh-ambade-12046b282/?originalSubdomain=in  
 
 🔗 Some of my profiles:  
 - Codeforces: https://codeforces.com/profile/harshambade  
-- CodeChef: https://www.codechef.com/users/harsh_ambade77  
+- CodeChef: https://www.codechef.com/users/harshambade
 
 ---
 
